@@ -38,5 +38,3 @@ LeanChat 是 [LeanCloud](http://leancloud.cn) [实时通信](https://leancloud.c
 * `group_sign`：对群组操作进行签名
 
 代码详见 [main.js](https://github.com/leancloud/AdventureCloud/blob/master/cloud/main.js)
-
-测试部署...
